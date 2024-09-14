@@ -25,7 +25,7 @@ The project is a task management application designed to help users organize and
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/hammadzafar05/filament-task-management-app.git
+   git clone https://github.com/faiberts/filament-task-management-app.git
    ```
 
 2. Navigate to the project directory:
